@@ -1,5 +1,5 @@
 {
-  "name": "npm-ci-test-template",
+  "name": "@kth/npm-ci-test-template",
   "version": "0.0.1",
   "description": "This package is a npm package template to follow when creating new npm packages",
   "main": "index.js",
