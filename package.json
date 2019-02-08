@@ -15,7 +15,10 @@
   "keywords": [
     "npm"
   ],
-  "author": "KTH",
+  "author": {
+    "name": "Niklas Olsson",
+    "email": "hoyce@kth.se"
+  },
   "license": "MIT",
   "homepage": "https://github.com/KTH/npm-ci-test-template#readme",
   "bugs": {
